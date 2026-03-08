@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mijn fragment App</string>
+    <string name="hello_blank_fragment">Hallo leeg fragment</string>
+    <string name="hello_world">Hallo Wereld!</string>
+    <string name="hello_from_first">Hallo van eerste fragment</string>
+</resources>

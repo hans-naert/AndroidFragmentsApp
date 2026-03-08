@@ -1,0 +1,6 @@
+    <resources>
+        <bool name="is_dual_pane">false</bool>
+    
+        <!-- <bool name="is_dual_pane">true</bool> -->
+</resources>
+    
